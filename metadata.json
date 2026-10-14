@@ -1,0 +1,6 @@
+{
+  "name": "olx.com.pk Trust Marketplace",
+  "description": "Trust-first managed classifieds platform for Pakistan with integrated escrow, CNIC seller verification, certified inspection reports, and weekly payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

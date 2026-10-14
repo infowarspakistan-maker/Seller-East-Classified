@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for olx.com.pk Trust-First Managed Marketplace prototype, featuring 10 Pakistani classifieds business modules, 4-role unified switcher (Buyer, Seller Hub, Inspector, Admin/Escrow), CNIC verification, Raast/JazzCash/Easypaisa escrow simulator, Lahore pilot verticals (Mobiles, Electronics, Motors), WhatsApp listing flow, and Urdu/English bilingual support.",
+  "updatedAt": "2026-10-14T10:27:19.283692762Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
